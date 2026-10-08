@@ -1,0 +1,45 @@
+{
+  "consecutive_failures": 0,
+  "failure_alert_sent": false,
+  "initialized": true,
+  "last_heartbeat": "2026-10-08T17:38:55.165152+00:00",
+  "legacy_chat_ids_migrated": true,
+  "listings": {
+    "2555": {
+      "address": "21, rue André Maginot 91400 ORSAY",
+      "area": null,
+      "available": true,
+      "id": "2555",
+      "label": "T2 Colocation",
+      "rent": "7000",
+      "residence": "Orsay-Fleming",
+      "units": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2555"
+    },
+    "2703": {
+      "address": "16, rue André Blanc Lapierre 91190 GIF-SUR-YVETTE",
+      "area": null,
+      "available": true,
+      "id": "2703",
+      "label": "T4 Colocation PMR",
+      "rent": "7000",
+      "residence": "Saclay-George Sand",
+      "units": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2703"
+    },
+    "2862": {
+      "address": "20, cour Pierre Vasseur 91120 - PALAISEAU",
+      "area": null,
+      "available": true,
+      "id": "2862",
+      "label": "T5 Colocation DUPLEX",
+      "rent": "7000",
+      "residence": "Saclay-Jean d'Ormesson",
+      "units": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862"
+    }
+  },
+  "subscribers_encrypted": "gAAAAABqrEhfeZAOCw_zFiVZgSNTvK-jmCd3fZyyDxBBUQNqfpw70x6eAxjr5sZqkMDBNMYhXkKZwV8Xb7e-OmnXO4k8c8xqPRTzoNgP3HcjXGfp6gNzehxzCKQTIjoRIZsIWQnPKPfXpQVhdli8SkzsIfXk5uVSrg==",
+  "telegram_update_offset": 876196159,
+  "version": 2
+}
