@@ -37,6 +37,17 @@
       "residence": "Saclay-Jean d'Ormesson",
       "units": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862"
+    },
+    "950": {
+      "address": "6, rue du Père Wresinski 28000 CHARTRES",
+      "area": null,
+      "available": true,
+      "id": "950",
+      "label": "T1 18m2",
+      "rent": "7000",
+      "residence": "DESANTI",
+      "units": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/950"
     }
   },
   "subscribers_encrypted": "gAAAAABqyC2Hhaf-7GwgmroLS11lTFoM-mktuhejcOPhory6EAmp_dHnKOoY4la8TxRBvK0uteeY_X-kieh5MQRIjMrPtDIuWg==",
