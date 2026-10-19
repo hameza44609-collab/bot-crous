@@ -5,6 +5,17 @@
   "last_heartbeat": "2026-10-18T23:37:11.827191+00:00",
   "legacy_chat_ids_migrated": true,
   "listings": {
+    "1754": {
+      "address": "106 rue Bajot 77550 Moissy Cramayel",
+      "area": null,
+      "available": true,
+      "id": "1754",
+      "label": "T3 Grand",
+      "rent": "7000",
+      "residence": "Moissy Cramayel - Alfred Sisley",
+      "units": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1754"
+    },
     "2555": {
       "address": "21, rue André Maginot 91400 ORSAY",
       "area": null,
